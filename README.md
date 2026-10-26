@@ -1,2 +1,12 @@
-# cs305-portfolio
-CS 305 Software Security Portfolio 
+CS 305 Portfolio Reflection 
+Artemis Financial is a financial consulting company that provides services involving savings, investments, retirement planning, and insurance. The company wanted to improve the security of its web application and better protect sensitive customer information during transmission. The goal was to identify security vulnerabilities and implement solutions that would improve the application's overall security.
+
+Throughout this project, I evaluated the application's security needs and implemented multiple security improvements. One area I did well was identifying opportunities to improve data protection through secure communication and cryptographic hashing. Secure coding is important because it helps protect sensitive information, reduces security risks, and improves the reliability of software applications. Strong security practices also help organizations maintain customer trust and protect their reputation.
+
+One of the most helpful parts of this project was learning how different security measures work together to protect an application. Configuring HTTPS communication, creating and exporting certificates, and implementing SHA-256 checksum verification helped me gain a better understanding of practical software security. The most challenging part was troubleshooting the SSL certificate configuration and ensuring secure communication was functioning correctly.
+
+To increase security, HTTPS was implemented using a self-signed SSL certificate and SHA-256 hashing was added to support checksum verification and data integrity validation. Security testing and dependency analysis were also performed to help identify potential vulnerabilities and ensure the application continued functioning properly after the security enhancements were added.
+
+Resources and tools that were especially helpful included Eclipse, Maven, SSL certificates, HTTPS configuration, cryptographic hashing techniques, and dependency analysis tools. These resources reinforced the importance of secure coding and security testing throughout the software development lifecycle.
+
+The artifact included in this repository demonstrates my ability to perform vulnerability assessments, implement secure coding practices, configure secure communications, and apply security-focused problem-solving techniques. This project provides a strong example of the software security knowledge and technical skills I developed throughout this course.=
